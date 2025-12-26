@@ -4,9 +4,14 @@ LINE_WIDTH = 2
 
 FPS = 60
 
+# player constants
 PLAYER_RADIUS = 20
 PLAYER_TURN_SPEED = 300
 PLAYER_SPEED = 200
+PLAYER_SHOOT_SPEED = 500
+
+# shot constats
+SHOT_RADIUS = 5
 
 # asteroid constants
 ASTEROID_MIN_RADIUS = 20
